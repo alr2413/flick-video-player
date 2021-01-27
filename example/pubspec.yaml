@@ -19,7 +19,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_widgets: ^0.1.12
+
+  visibility_detector: ^0.1.5
   flick_video_player:
     path: '../'
   video_player: 0.10.8+1
